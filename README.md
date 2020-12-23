@@ -26,7 +26,7 @@ Big thanks to [@furim](https://github.com/furim) for the VPS (good app needs a g
 ## Donate
 I handle all the tron fees involved by wrapper (it also took me so much time to code), so any donate is welcome.
 
-You can donate to the wrapper's tron address : [TMpidRmkmZv1jgenvR5APdgJTQAgTWFScL](https://tronscan.org/#/address/TMpidRmkmZv1jgenvR5APdgJTQAgTWFScL).\
+You can donate to the wrapper's tron address : [TMpidRmkmZv1jgenvR5APdgJTQAgTWFScL](https://tronscan.org/#/address/TMpidRmkmZv1jgenvR5APdgJTQAgTWFScL).
 
 Else, feel free of using my ref links (I don't take money direcly). There's faucets that will allow u to get some free coins for beginning :
 - [Free Bitcoin Cash](https://bitcoinaliens.com/?ref=950783&game=7&pf=2)
