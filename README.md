@@ -1,5 +1,5 @@
 # DUCO unofficial Android Wallet
-This is a Duino-Coin unofficial android wallet using http API. It also allows wrapping your duino-coins on Tron blockchain for putting them in DeFi.
+This is a [Duino-Coin](https://github.com/duino-coin) unofficial android wallet using http API. It also allows wrapping your duino-coins on Tron blockchain for putting them in DeFi.
 
 ## Wallet
 We can send transactions, check our balance, etc... with this wallet, that was intended to be easy to use.
@@ -19,6 +19,9 @@ This option allows you to send your wrapped DUCO to any valid tron address (out 
 
 Please double-check it's the correct address (a dialog will ask u) before sending because of funds sent to the wrong address CANNOT BE RECOVERED.
 
+
+## A big thanks
+Big thanks to [@furim](https://github.com/furim) for the VPS
 
 ## Donate
 I handle all the tron fees involved by wrapper (it also took me so much time to code), so any donate is welcome.
