@@ -21,7 +21,7 @@ Please double-check it's the correct address (a dialog will ask u) before sendin
 
 
 ## A big thanks
-Big thanks to [@furim](https://github.com/furim) for the VPS (e)
+Big thanks to [@furim](https://github.com/furim) for the VPS (good app needs a good server !)
 
 ## Donate
 I handle all the tron fees involved by wrapper (it also took me so much time to code), so any donate is welcome.
